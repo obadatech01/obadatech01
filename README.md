@@ -1,7 +1,6 @@
 <h1 align="center">Hi Dear 👋, I'm Obada Abu Musameh</h1>
-<h3 align="center">Software Engineer, NodeJS Backend Developer💻</h3>
 
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering;NodeJS+Backend+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
