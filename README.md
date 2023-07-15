@@ -16,6 +16,15 @@
 <br>
 
 -----
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura)
+<br>
+<br>
+
+-----
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
