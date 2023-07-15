@@ -5,10 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering;NodeJS+Backend+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obadatech01&label=Profile%20views&color=0e75b6&style=flat" alt="obadatech01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obadatech01&label=Profile%20views&color=0e75b6&style=flat" alt="obadatech01" />
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=obadatech01.obadatech01)
-[![Github](https://img.shields.io/github/followers/obadatech01?label=Follow&style=social)](https://github.com/obadatech01)
+[![Github](https://img.shields.io/github/followers/obadatech01?label=Follow&style=social)](https://github.com/obadatech01)</p>
+
 
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&style=for-the-badge" alt="obadatech01" /></a> </p>
 
