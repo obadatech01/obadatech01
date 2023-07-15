@@ -6,6 +6,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obadatech01&label=Profile%20views&color=0e75b6&style=flat" alt="obadatech01" /> </p>
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=obadatech01.obadatech01)
 [![Github](https://img.shields.io/github/followers/obadatech01?label=Follow&style=social)](https://github.com/obadatech01)
 
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&style=for-the-badge" alt="obadatech01" /></a> </p>
