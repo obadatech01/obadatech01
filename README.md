@@ -6,8 +6,14 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obadatech01&label=Profile%20views&color=0e75b6&style=flat" alt="obadatech01" /> </p>
+[![Github](https://img.shields.io/github/followers/obadatech01?label=Follow&style=social)](https://github.com/obadatech01)
 
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&style=for-the-badge" alt="obadatech01" /></a> </p>
+
+<br>
+<br>
+
+-----
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -21,7 +27,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Nestjs <a href="https://github.com/obadatech01/obadatech01" target="blank">obadatech01</a>
+- 🌱 I’m currently learning <a href="https://docs.nestjs.com" target="blank">Nestjs</a>
 
 - 💬 Ask me about **Nodejs & Nestjs**
 
