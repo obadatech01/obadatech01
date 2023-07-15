@@ -28,6 +28,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura)
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obadatech01&show_icons=true&locale=en&layout=compact" alt="obadatech01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obadatech01&show_icons=true&locale=en" alt="obadatech01" /></p>
+
 <br>
 <br>
 
