@@ -18,9 +18,16 @@
 -----
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
 
+<p align="left">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura)
+</p>
+
+<p align="right">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura)
+</p>
+
 <br>
 <br>
 
