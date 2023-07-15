@@ -1,4 +1,4 @@
-<h1 align="center">Hi Dear 👋, I'm Obada Yehia Abu Musameh</h1>
+<h1 align="center">Hi Dear 👋, I'm Obada Abu Musameh</h1>
 <h3 align="center">Software Engineer, NodeJS Backend Developer💻</h3>
 
 <!--
