@@ -1,6 +1,8 @@
 <h1 align="center">Hi Dear 👋, I'm Obada Abu Musameh</h1>
 <h3 align="center">Software Engineer, NodeJS Backend Developer💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obadatech01&label=Profile%20views&color=0e75b6&style=flat" alt="obadatech01" /> </p>
+
 <!--
 **obadatech01/obadatech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
