@@ -53,6 +53,14 @@
 
 ## <picture><img src = "https://github.com/obadatech01/obadatech01/blob/main/about_me.gif" width = 50px></picture> **About me**
 
+- 💻 I’m a self taught Full Stack Developer as MERN STACK
+
+- 📚  I’m an accomplished Computer Systems Engineering graduate from Al-Azhar University, with a Bachelor's degree in Software Engineering.
+
+- 🌟 Main languages: Java, JavaScript & PHP
+
+- 📝 I have a strong interest in Backend <a href="https://nodejs.org/en/docs" target="blank">NodeJS</a> & <a href="https://docs.nestjs.com/" target="blank">NestJS</a>
+
 - 🔭 I’m currently working in <a href="##" target="blank">Capivo</a>
 
 - 🌱 I’m currently Working on Nodejs Backend
@@ -84,11 +92,6 @@
     <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Language" />
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Language" />
-
-
-    <!-- ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
 
 <br>
 
