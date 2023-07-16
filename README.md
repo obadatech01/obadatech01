@@ -87,7 +87,7 @@
 
    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23E34F26.svg?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" /></a>
    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23E34F26.svg?style=for-the-badge&logo=Illustrator&logoColor=white" alt="Illustrator" /></a>
-   <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/AdobeXD%20-%440434.svg?style=for-the-badge&logoColor=white" alt="Adobe XD" /></a>
+   <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD%20-%23440434.svg?style=for-the-badge&logoColor=white" alt="Adobe XD" /></a>
    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 
 <br>
