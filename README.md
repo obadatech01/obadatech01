@@ -17,7 +17,7 @@
 
 -----
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
-
+<!-- 
 <p align="left">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura)
@@ -26,7 +26,12 @@
 <p align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura)
-</p>
+</p> -->
+
+<!-- deleted -->
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura" alt="obadatech01" />
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura" alt="obadatech01" />
+<!-- deleted -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obadatech01&show_icons=true&locale=en&layout=compact" alt="obadatech01" /></p>
 
