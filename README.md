@@ -29,6 +29,8 @@
 </div>
 
 -----
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura" alt="obadatech01" />
@@ -39,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obadatech01&show_icons=true&locale=en" alt="obadatech01" /></p>
 
 <br>
-<div align="center">
+<!-- <div align="center"> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=obadatech01&" alt="obadatech01" /></p>
 <br>
 </div>
