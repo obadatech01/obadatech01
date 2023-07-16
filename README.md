@@ -13,12 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&style=for-the-badge" alt="obadatech01" /></a> </p>
 
-<br>
-<br />
 <img src="https://www.codewars.com/users/obadatech01/badges/large" alt="Obada Yehia Codewars Badge">
-<br />
-<br>
-<!-- delete -->
 <div align="left">
 <a href="https://linkedin.com/in/obadatech01" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -30,10 +25,8 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <br />
-
 <br />
 </div>
-<!-- delete -->
 
 -----
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
