@@ -14,15 +14,32 @@
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&style=for-the-badge" alt="obadatech01" /></a> </p>
 
 <br>
+<br />
+<img src="https://www.codewars.com/users/obadatech01/badges/large" alt="Obada Yehia Codewars Badge">
+<br />
 <br>
+<!-- delete -->
+<div align="left">
+<a href="https://linkedin.com/in/obadatech01" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/obadatech01" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/obadatech01" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<br />
+
+<br />
+</div>
+<!-- delete -->
 
 -----
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
 
-<!-- deleted -->
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura" alt="obadatech01" />
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura" alt="obadatech01" />
-<!-- deleted -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obadatech01&show_icons=true&locale=en&layout=compact" alt="obadatech01" /></p>
 
@@ -110,24 +127,7 @@
 <br>
 <br>
 
-<!-- delete -->
-<div align="center">
-<a href="https://linkedin.com/in/obadatech01" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/obadatech01" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/obadatech01" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
-<img src="https://www.codewars.com/users/obadatech01/badges/large" alt="Obada Yehia Codewars Badge">
-<br />
-<br />
-</div>
-<!-- delete -->
+
 -----
 
 <br>
