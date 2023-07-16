@@ -87,14 +87,9 @@
 
    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23001d25.svg?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" /></a>
    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23240701.svg?style=for-the-badge&logo=Illustrator&logoColor=rgba(239,142,0,255)" alt="Illustrator" /></a>
-   <!-- <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23ea6c30.svg?style=for-the-badge&logo=Illustrator&logoColor=rgba(239,142,0,255)" alt="Illustrator" /></a> -->
    <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD%20-%23ff61f6.svg?style=for-the-badge&logoColor=rgba(255,97,246,255)" alt="Adobe XD" /></a>
    <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD%20-%23440434.svg?style=for-the-badge&logoColor=rgba(255,97,246,255)" alt="Adobe XD" /></a>
-   <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23f24e1e.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a> -->
-   <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23ff7262.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a> -->
-   <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%231abcfe.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a> -->
    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a>
-   <!-- <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%230acf83.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a> -->
 
 <br>
 
