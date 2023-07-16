@@ -110,13 +110,13 @@
 
    <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" /></a>
-   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=black" alt="SASS" /></a>
-   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap" /></a>
-   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS%20-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="TailwindCSS" /></a>
-   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VueJS%20-%23F7DF1E.svg?style=for-the-badge&logo=vuetify&logoColor=black" alt="VueJS" /></a>
-   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/AngularJS%20-%23F7DF1E.svg?style=for-the-badge&logo=angular&logoColor=black" alt="AngularJS" /></a>
-   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" /></a>
-   <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=for-the-badge&logo=redux&logoColor=black" alt="Redux" /></a>
+   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS%20-%23cc649c.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /></a>
+   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap%20-%237d13f6.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS%20-%230b1120.svg?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="TailwindCSS" /></a>
+   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VueJS%20-%23ffffff.svg?style=for-the-badge&logo=vuetify&logoColor=43bb83" alt="VueJS" /></a>
+   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/AngularJS%20-%23ffffff.svg?style=for-the-badge&logo=angular&logoColor=c3002f" alt="AngularJS" /></a>
+   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactJS%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=1c9cc8" alt="ReactJS" /></a>
+   <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux%20-%23ffffff.svg?style=for-the-badge&logo=redux&logoColor=754bbc" alt="Redux" /></a>
 
 <br>
 
@@ -124,10 +124,10 @@
 
 - **Backend-End Development**:
 
-   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?style=for-the-badge&logo=laravel&logoColor=black" alt="Laravel" /></a>
-   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="NodeJS" /></a>
-   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/ExpressJS%20-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black" alt="ExpressJS" /></a>
-   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS%20-%23F7DF1E.svg?style=for-the-badge&logo=nestjs&logoColor=black" alt="NestJS" /></a>
+   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel%20-%23fc342c.svg?style=for-the-badge&logo=laravel&logoColor=fcd4d3" alt="Laravel" /></a>
+   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/NodeJS%20-%2346bb60.svg?style=for-the-badge&logo=node&logoColor=white" alt="NodeJS" /></a>
+   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/ExpressJS%20-%23828282.svg?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" /></a>
+   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS%20-%23FFFFFF.svg?style=for-the-badge&logo=nestjs&logoColor=e4244b" alt="NestJS" /></a>
 
 <br>
 
