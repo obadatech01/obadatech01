@@ -96,7 +96,7 @@
 
 - **Programming Languages**:
 
-   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Java" /></a>
+   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" alt="Java" /></a>
    <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=black" alt="PHP" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript" /></a>
@@ -110,10 +110,10 @@
 
    <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" /></a>
-   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="SASS" /></a>
-   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Bootstrap" /></a>
-   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="TailwindCSS" /></a>
-   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VueJS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="VueJS" /></a>
+   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=black" alt="SASS" /></a>
+   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap" /></a>
+   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS%20-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="TailwindCSS" /></a>
+   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VueJS%20-%23F7DF1E.svg?style=for-the-badge&logo=vuetify&logoColor=black" alt="VueJS" /></a>
    <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/AngularJS%20-%23F7DF1E.svg?style=for-the-badge&logo=angular&logoColor=black" alt="AngularJS" /></a>
    <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" /></a>
    <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=for-the-badge&logo=redux&logoColor=black" alt="Redux" /></a>
