@@ -93,10 +93,10 @@
 
 - **Design**:
 
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Photoshop" /></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Illustrator" /></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/XdDesign%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="XD Design" /></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Figma" /></a>
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Photoshop" /></a>
+   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Illustrator" /></a>
+   <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/XdDesign%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="XD Design" /></a>
+   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Figma" /></a>
 
 <br>
 
@@ -104,9 +104,11 @@
 
 - **Programming Languages**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Java" /></a>
+   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=black" alt="PHP" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
+   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript" /></a>
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python" /></a>
 
 <br>
 
@@ -114,9 +116,15 @@
 
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" /></a>
+   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="SASS" /></a>
+   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Bootstrap" /></a>
+   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="TailwindCSS" /></a>
+   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/VueJS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="VueJS" /></a>
+   <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/AngularJS%20-%23F7DF1E.svg?style=for-the-badge&logo=angular&logoColor=black" alt="AngularJS" /></a>
+   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" /></a>
+   <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=for-the-badge&logo=redux&logoColor=black" alt="Redux" /></a>
 
 <br>
 
@@ -124,9 +132,10 @@
 
 - **Backend-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?style=for-the-badge&logo=laravel&logoColor=black" alt="Laravel" /></a>
+   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="NodeJS" /></a>
+   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/ExpressJS%20-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black" alt="ExpressJS" /></a>
+   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS%20-%23F7DF1E.svg?style=for-the-badge&logo=nestjs&logoColor=black" alt="NestJS" /></a>
 
 <br>
 
@@ -134,9 +143,26 @@
 
 - **Database Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" /></a>
+
+<br>
+
+<br>
+
+- **API Development**:
+
+   <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20API%20-%23327FC7.svg?style=for-the-badge&logoColor=white" alt="REST API" /></a>
+   <a href="https://graphql.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL%20-%23327FC7.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+
+<br>
+
+<br>
+
+- **Software Testing**:
+
+   <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/JEST%20Testing%20-%23327FC7.svg?style=for-the-badge&&logoColor=white" alt="Jest Testing" /></a>
 
 <br>
 
@@ -144,24 +170,21 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+   <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3%20-%23327FC7.svg?style=for-the-badge&&logoColor=white" alt="AWS S3" /></a>
+   <a href="https://docs.github.com/en/pages/quickstart" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" /></a>
 
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    <a href="https://cmder.app/" target="_blank"><img src="https://img.shields.io/badge/cmder%20-%23F7DF1E.svg?style=for-the-badge&logo=git&logoColor=black" alt="Cmder" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github%20-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="Github" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="NodeJS" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman%20-%23F7DF1E.svg?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" /></a>
+    <a href="http://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" /></a>
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 </p>
