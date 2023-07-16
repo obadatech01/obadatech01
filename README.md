@@ -142,3 +142,21 @@
 <a href="https://fb.com/obadatech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obadatech01" height="30" width="40" /></a>
 <a href="https://instagram.com/obadatech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obadatech01" height="30" width="40" /></a>
 </p>
+
+<br>
+<br>
+<hr>
+<br>
+<h2> Connect with me <img src='https://github.com/obadatech01/obadatech01/blob/main/handshake.gif' width="100px"> </h2>
+<p align="center">
+  <a href="https://linkedin.com/in/obadatech01"><img alt="Linkedin" title="obadatech01 Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/obadatech01"><img alt="Github" title="obadatech01 Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <!-- <a href="https://www.snapchat.com/add/obadatech01"><img alt="Bad Boy Snapchat" title="obadatech01 SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> -->
+  <a href="https://facebook.com/obadatech01"><img alt="Facebook" title="obadatech01 Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/obadatech01"><img alt="Instagram" title="obadatech01 Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:obadatech01@gmail.com"><img alt="Gmail" title="Obada Abu Musameh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/obadatech01"><img alt="Telegram" title="Obada Abu Musameh Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="http://twitter.com/obadatech01"><img alt="Twitter" title="obadatech01 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
