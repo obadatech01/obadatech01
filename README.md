@@ -91,6 +91,17 @@
 
 <br>
 
+- **Design**:
+
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Photoshop" /></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Illustrator" /></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/XdDesign%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="XD Design" /></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Figma" /></a>
+
+<br>
+
+<br>
+
 - **Programming Languages**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
