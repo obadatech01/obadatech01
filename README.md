@@ -96,7 +96,7 @@
 
 - **Programming Languages**:
 
-   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23ed1f29.svg?style=for-the-badge&logo=java&logoColor=178ac6" alt="Java" /></a>
+   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%235081a1.svg?style=for-the-badge&logo=mocha&logoColor=fc9a18" alt="Java" /></a>
    <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP%20-%234f5b93.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript%20-%233178c6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a>
@@ -135,9 +135,9 @@
 
 - **Database Development**:
 
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB%20-%23ffffff.svg?style=for-the-badge&logo=mongodb&logoColor=1b9e54" alt="MongoDB" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL%20-%2300618a.svg?style=for-the-badge&logo=mysql&logoColor=e48c00" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL%20-%23305e99.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" /></a>
 
 <br>
 
@@ -145,8 +145,8 @@
 
 - **API Development**:
 
-   <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20API%20-%23327FC7.svg?style=for-the-badge&logoColor=white" alt="REST API" /></a>
-   <a href="https://graphql.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL%20-%23327FC7.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+   <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20API%20-%2361cbed.svg?style=for-the-badge&logoColor=white" alt="REST API" /></a>
+   <a href="https://graphql.com/" target="_blank"><img src="https://img.shields.io/badge/GraphQL%20-%23ffffff.svg?style=for-the-badge&logo=graphql&logoColor=e433ab" alt="GraphQL" /></a>
 
 <br>
 
@@ -154,7 +154,7 @@
 
 - **Software Testing**:
 
-   <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/JEST%20Testing%20-%23327FC7.svg?style=for-the-badge&&logoColor=white" alt="Jest Testing" /></a>
+   <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/JEST%20Testing%20-%2396737d.svg?style=for-the-badge&logo=jest&logoColor=99425b" alt="Jest Testing" /></a>
 
 <br>
 
@@ -162,19 +162,19 @@
 
 - **Cloud Hosting**:
 
-   <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3%20-%23327FC7.svg?style=for-the-badge&&logoColor=white" alt="AWS S3" /></a>
-   <a href="https://docs.github.com/en/pages/quickstart" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages%20-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" /></a>
+   <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3%20-%23232f3e.svg?style=for-the-badge&logo=amazon&logoColor=ff9900" alt="AWS S3" /></a>
+   <a href="https://docs.github.com/en/pages/quickstart" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages%20-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=4482b5" alt="Github Pages" /></a>
 
 <br>
 
 - **Softwares and Tools**:
 
-    <a href="https://cmder.app/" target="_blank"><img src="https://img.shields.io/badge/cmder%20-%23F7DF1E.svg?style=for-the-badge&logo=git&logoColor=black" alt="Cmder" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github%20-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="Github" /></a>
+    <a href="https://cmder.app/" target="_blank"><img src="https://img.shields.io/badge/cmder%20-%238db731.svg?style=for-the-badge&logo=git&logoColor=2e2e2c" alt="Cmder" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23f05133.svg?style=for-the-badge&logo=git&logoColor=413000" alt="Git" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/Github%20-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black" alt="Github" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="NodeJS" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman%20-%23F7DF1E.svg?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" /></a>
-    <a href="http://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman%20-%23ffffff.svg?style=for-the-badge&logo=postman&logoColor=ec7343" alt="Postman" /></a>
+    <a href="http://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker%20-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" /></a>
 
 <br>
 
