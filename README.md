@@ -33,12 +33,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obadatech01&theme=aura)
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura" alt="obadatech01" />
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obadatech01&theme=aura" alt="obadatech01" />
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obadatech01&theme=aura" alt="obadatech01" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obadatech01&show_icons=true&locale=en&layout=compact" alt="obadatech01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obadatech01&show_icons=true&locale=en" alt="obadatech01" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=obadatech01&show_icons=true&locale=en" alt="obadatech01" /></p>
 
 <br>
 <!-- <div align="center"> -->
