@@ -38,8 +38,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obadatech01&show_icons=true&locale=en" alt="obadatech01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obadatech01&" alt="obadatech01" /></p>
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obadatech01&" alt="obadatech01" /></p>
 <br>
 
 -----
