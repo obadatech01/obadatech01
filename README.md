@@ -1,6 +1,5 @@
-<h1 align="center">Hi Dear 👋, I'm Obada Abu Musameh</h1>
-<h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://github.com/obadatech01/obadatech01/blob/main/gifs/Hi.gif" width="30"></h2>
-
+<h1 align="center">Hi Dear, I'm Obada Abu Musameh</h1>
+<h2 align="center"> Welcome to my Github profile! <img src="https://raw.githubusercontent.com/obadatech01/obadatech01/main/Hi.gif" width="30"></h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineering;NodeJS+Backend+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
