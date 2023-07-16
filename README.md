@@ -85,11 +85,10 @@
 
 - **Design**:
 
-   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23E34F26.svg?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" /></a>
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop%20-%23001e36.svg?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" /></a>
    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23330000.svg?style=for-the-badge&logo=Illustrator&logoColor=rgba(239,142,0,255)" alt="Illustrator" /></a>
-   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator%20-%23ef8e00.svg?style=for-the-badge&logo=Illustrator&logoColor=rgba(239,142,0,255)" alt="Illustrator" /></a>
    <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD%20-%23440434.svg?style=for-the-badge&logoColor=rgba(255,97,246,255)" alt="Adobe XD" /></a>
-   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%23E34F26.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma%20-%231cbcfc.svg?style=for-the-badge&logo=figma&logoColor=ff7262" alt="Figma" /></a>
 
 <br>
 
@@ -97,11 +96,11 @@
 
 - **Programming Languages**:
 
-   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" alt="Java" /></a>
-   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=black" alt="PHP" /></a>
+   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java%20-%23ed1f29.svg?style=for-the-badge&logo=java&logoColor=178ac6" alt="Java" /></a>
+   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP%20-%234f5b93.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
-   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript" /></a>
-   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python" /></a>
+   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript%20-%233178c6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a>
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python%20-%23236bac.svg?style=for-the-badge&logo=python&logoColor=efd350" alt="Python" /></a>
 
 <br>
 
