@@ -11,7 +11,10 @@
 
 
 <p align="left"> <a href="https://twitter.com/obadatech01" target="blank"><img src="https://img.shields.io/twitter/follow/obadatech01?logo=twitter&color=1DA1F2&style=for-the-badge" alt="obadatech01" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=obadatech01" target="blank"><img src="https://img.shields.io/linkedin/follow/obadatech01?logo=linkedin-%2300acee.svg?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="obadatech01" /></a> </p>
+<!-- <p align="left"> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=obadatech01" target="blank"><img src="https://img.shields.io/linkedin/follow/obadatech01?logo=linkedin-%2300acee.svg?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="obadatech01" /></a> </p> -->
+<p align="left"> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=obadatech01" target="_blank">
+<img src=https://img.shields.io/badge/Follow%20Me-%2300acee.svg?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a></p>
 
 <img src="https://www.codewars.com/users/obadatech01/badges/large" alt="Obada Yehia Codewars Badge">
 <div align="left">
