@@ -157,6 +157,7 @@
 - **Software Testing**:
 
    <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/JEST%20Testing%20-%2396737d.svg?style=for-the-badge&logo=jest&logoColor=99425b" alt="Jest Testing" /></a>
+   <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/GRADLE%20Testing%20-%23ffffff.svg?style=for-the-badge&logo=gradle&logoColor=04343c" alt="Gradle Testing" /></a>
 
 <br>
 
