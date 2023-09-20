@@ -57,7 +57,7 @@
 
 - 📚  I’m an accomplished Computer Systems Engineering graduate from Al-Azhar University, with a Bachelor's degree in Software Engineering.
 
-- 🌟 Main languages: Java, JavaScript & PHP
+- 🌟 Main languages: Java, JavaScript, Python & PHP
 
 - 📝 I have a strong interest in Backend <a href="https://nodejs.org/en/docs" target="blank">NodeJS</a> & <a href="https://docs.nestjs.com/" target="blank">NestJS</a>
 
